@@ -52,6 +52,7 @@
         font-size: 12px;
         line-height: 15px;
         margin-top: 8px;
+        max-width: 170px;
     }
 
     /* ******info**** */
